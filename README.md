@@ -1,7 +1,7 @@
 
-> Open this page at [https://josh-ccb.github.io/rock-paper-scissors/](https://josh-ccb.github.io/rock-paper-scissors/)
+> Welcome to my MicroBit RPS Project! [https://josh-ccb.github.io/rock-paper-scissors/](https://josh-ccb.github.io/rock-paper-scissors/)
 
-## Use as Extension
+## Instructions:
 
 This repository can be added as an **extension** in MakeCode.
 
@@ -10,9 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/josh-ccb/rock-paper-scissors** and import
 
-## Edit this project
-
-To edit this repository in MakeCode.
+You can edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
@@ -20,5 +18,5 @@ To edit this repository in MakeCode.
 
 #### Metadata (used for search, rendering)
 
-* for PXT/microbit
+* for PXT/MicroBit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
