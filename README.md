@@ -1,7 +1,7 @@
 
 > Welcome to my MicroBit RPS Project! [https://josh-ccb.github.io/rock-paper-scissors/](https://josh-ccb.github.io/rock-paper-scissors/)
 
-## Instructions:
+## Instructions
 
 This repository can be added as an **extension** in MakeCode.
 
@@ -15,6 +15,8 @@ You can edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/josh-ccb/rock-paper-scissors** and click import
+
+## Data Store
 
 #### Metadata (used for search, rendering)
 
