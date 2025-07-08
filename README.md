@@ -1,5 +1,5 @@
 
-> Welcome to my MicroBit RPS Project! [https://josh-ccb.github.io/rock-paper-scissors/](https://josh-ccb.github.io/rock-paper-scissors/)
+> Welcome to my MicroBit RPS Project! [(Github Page Redirect)](https://josh-ccb.github.io/rock-paper-scissors/)
 
 ## Instructions
 
